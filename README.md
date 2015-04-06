@@ -1,2 +1,3 @@
-# dev4s-helpers
-This project purpose was to help me in making automatic and easy configuration based on *.xml files. Project not finished.
+# (Unkown date) Dev4s.Helpers
+
+This library was written (but not finished) in my freelancing days. It's main purpose was to help me with creating and using configuration files based on *.xml. Project isn't finished.
